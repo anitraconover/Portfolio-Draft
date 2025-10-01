@@ -4,11 +4,9 @@ As a Geographic Information Science (GIS) professional, I use maps to observe tr
 My work in the food and agriculture sector has spanned across roles in academia, city government, and non-government organizations. In both technical roles and policy roles, I have led grant writing, program evaluation, facilitation, mediation, and other project management responsibilities.
 
 
-<button class="btn btn-outline"
-                  type="button"
-                  onclick="window.open('https://www.canva.com/design/DAGpVVrX5d4/BKphzwwYIu473VdDHB10sg/edit?utm_content=DAGpVVrX5d4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton', '_blank')">
-            My Resume
-          </button>
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
 
 # Samples of Work
 
