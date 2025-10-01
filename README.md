@@ -1,4 +1,3 @@
-# About
 As a Geographic Information Science (GIS) professional, I use maps to observe trends and inform decisions. Extreme weather is inreasingly threatening the U.S. food system, and I am passionate about leveraging spatial data to help farms adapt to emerging risks and build resilience. 
 
 My work in the food and agriculture sector has spanned across roles in academia, city government, and non-government organizations. In both technical roles and policy roles, I have led grant writing, program evaluation, facilitation, mediation, and other project management responsibilities.
@@ -29,7 +28,9 @@ NASA: Open Science Essentials
 CITI Program: Human Subjects Research (2020)
 
 
-# Career Development Plan
+# About
+
+My background in service...
 
 specific interests within GIS... two key research questions
 
