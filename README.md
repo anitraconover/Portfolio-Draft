@@ -10,6 +10,9 @@ My work in the food and agriculture sector has spanned across roles in academia,
 [https://www.canva.com/design/DAGpVVrX5d4/BKphzwwYIu473VdDHB10sg/edit](#custom-anchor)
 
 
+
+<a href="https://www.canva.com/design/DAGpVVrX5d4/BKphzwwYIu473VdDHB10sg/edit">My Resume</a>
+
 # Samples of Work
 
 
