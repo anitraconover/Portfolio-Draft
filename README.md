@@ -7,7 +7,7 @@ My work in the food and agriculture sector has spanned across roles in academia,
 
 # Samples of Work
 
-## In-progress: 
+## In-progress: Investigation of Potential Vomitoxin Hotspots Across Minnesota
 
 
 ## Previous
