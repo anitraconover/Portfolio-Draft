@@ -7,7 +7,7 @@ My work in the food and agriculture sector has spanned across roles in academia,
 <button class="btn btn-outline"
                   type="button"
                   onclick="window.open('https://www.canva.com/design/DAGpVVrX5d4/BKphzwwYIu473VdDHB10sg/edit?utm_content=DAGpVVrX5d4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton', '_blank')">
-            Chat Kami
+            My Resume
           </button>
 
 # Samples of Work
