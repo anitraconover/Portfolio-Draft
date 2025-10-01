@@ -7,13 +7,16 @@ My work in the food and agriculture sector has spanned across roles in academia,
 
 # Samples of Work
 
-# In-progress: 
+## In-progress: 
 
-## <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Research Sample 1:</a>
+
+## Previous
+
+### <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Research Sample 1:</a>
 My undergraduate thesis, which I presented at the Universities Fighting World Hunger (UFWH) conference in 2022 and received the Commendation Prize from Effective Thesis' international jury of experts
 
 
-## <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Research Sample 2:</a>
+### <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Research Sample 2:</a>
 A report on food security response to COVID-19 within Vermont's New American Communities
 
 
@@ -24,6 +27,11 @@ NASA: Open Science Essentials
 
 ## Previous 
 CITI Program: Human Subjects Research (2020)
+
+
+# Career Development Plan
+
+specific interests within GIS... two key research questions
 
 
 
