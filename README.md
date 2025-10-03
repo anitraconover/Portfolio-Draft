@@ -22,7 +22,7 @@ My work in the food and agriculture sector has spanned across roles in academia,
 ## Previous
 
 ### <a href="https://www.effectivethesis.org/exceptional-research-award-winners-2022/">Research Sample 1:</a>
-My undergraduate thesis, which I presented at the Universities Fighting World Hunger (UFWH) conference in 2022 and received the Commendation Prize from Effective Thesis' international jury of experts
+My undergraduate thesis, which was presented at the Universities Fighting World Hunger (UFWH) conference in 2022 and received the Commendation Prize from Effective Thesis' international jury of experts in 2022
 
 
 ### <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Research Sample 2:</a>
