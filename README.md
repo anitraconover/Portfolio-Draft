@@ -57,6 +57,3 @@ I decided to pursue a Master's of GIS at University of Minnesota Twin Cities. Wi
 
 🔗 <a href="https://www.linkedin.com/in/anitra-conover/"> Linkedin Profile </a> 
 
-
-
-https://srisi.github.io/github_pages_tutorial/links.html
