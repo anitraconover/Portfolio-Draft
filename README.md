@@ -6,7 +6,8 @@ My work in the food and agriculture sector has spanned across roles in academia,
 
 # Samples of Work
 
-## In-progress: Investigation of Potential Vomitoxin Hotspots Across Minnesota
+## In-progress
+<img src="https://share.google/images/FXDQ5UWSJBhMgJJIL"></img> ###Investigation of Potential Vomitoxin Hotspots Across Minnesota
 
 
 ## Previous
@@ -38,7 +39,7 @@ specific interests within GIS... two key research questions
 
 # Contact Me
 
-Email: anitra.conover@gmail.com
+anitra.conover@gmail.com
 
 
 <a href="https://www.linkedin.com/in/anitra-conover/"> Linkedin Profile </a> 
