@@ -1,3 +1,5 @@
+# Welcome
+
 As a Geographic Information Science (GIS) professional, I use maps to observe trends and inform decisions. Extreme weather is inreasingly threatening the U.S. food system, and I am passionate about leveraging spatial data to help farms adapt to emerging risks and build resilience. 
 
 My work in the food and agriculture sector has spanned across roles in academia, city government, and non-government organizations. In both technical roles and policy roles, I have led grant writing, program evaluation, facilitation, mediation, and other project management responsibilities.
@@ -35,7 +37,9 @@ CITI Program: Human Subjects Research (2020)
 
 # About
 
-My background in service...
+My work in the food and agriculture sector is what eventually led me to GIS and spatial data analysis. I started my career working in food security programming and eventually chose to focus on resilient agriculture because of its key role in supporting long-term food security. Working in federal ag policy for several years, spatial data's crucial role in risk assessment and reslience building became clear.
+
+
 
 specific interests within GIS... two key research questions
 
