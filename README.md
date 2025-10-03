@@ -18,7 +18,7 @@ My work in the food and agriculture sector has spanned across roles in academia,
 
 ## Previous
 
-### <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Research Sample 1:</a>
+### <a href="https://www.effectivethesis.org/exceptional-research-award-winners-2022/">Research Sample 1:</a>
 My undergraduate thesis, which I presented at the Universities Fighting World Hunger (UFWH) conference in 2022 and received the Commendation Prize from Effective Thesis' international jury of experts
 
 
@@ -39,16 +39,21 @@ CITI Program: Human Subjects Research (2020)
 
 My work in the food and agriculture sector is what eventually led me to GIS and spatial data analysis. I started my career working in food security programming and eventually chose to focus on resilient agriculture because of its key role in supporting long-term food security. Working in federal ag policy for several years, spatial data's crucial role in risk assessment and reslience building became clear.
 
+I decided to pursue a Master's of GIS at University of Minnesota Twin Cities. Within GIS, I am particularly interested in spatio-temporal modelling, data manipulation, spatial data standards/infrastructure, spatial statistics, remote sensing, and spatial data uncertainty. Using my GIS skillsets, I hope to answer two questions essential to scaling profitable, resilient agriculture:
+
+🌱 How can earth observation and remote sensing better evaluate agricultural risk and therefore improve farm finance tools for resilient agricultural practices?
+
+🌱 How can revisions to existing data infrastructure improve the interoperability, transparency, and security of agricultural data and better support profitable, disaster-resilient agriculture?
 
 
-specific interests within GIS... two key research questions
+
+
 
 
 
 # Contact Me
 
 anitra.conover@gmail.com
-
 
 <a href="https://www.linkedin.com/in/anitra-conover/"> Linkedin Profile </a> 
 
