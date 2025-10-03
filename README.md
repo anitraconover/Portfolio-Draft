@@ -29,10 +29,10 @@ A report on food security response to COVID-19 within Vermont's New American Com
 # Certifications
 
 ## In-progress: 
-NASA: Open Science Essentials
+🛰️ NASA: Open Science Essentials
 
 ## Previous 
-CITI Program: Human Subjects Research (2020)
+🌐 CITI Program: Human Subjects Research (2020)
 
 
 # About
@@ -53,9 +53,9 @@ I decided to pursue a Master's of GIS at University of Minnesota Twin Cities. Wi
 
 # Contact Me
 
-anitra.conover@gmail.com
+📧 anitra.conover@gmail.com
 
-<a href="https://www.linkedin.com/in/anitra-conover/"> Linkedin Profile </a> 
+🔗 <a href="https://www.linkedin.com/in/anitra-conover/"> Linkedin Profile </a> 
 
 
 
