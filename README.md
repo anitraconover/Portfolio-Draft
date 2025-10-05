@@ -49,7 +49,7 @@ A report on food security response to COVID-19 within Vermont's New American Com
 
 # About
 
-My work in the food and agriculture sector is what eventually led me to GIS and spatial data analysis. I started my career working in food security and eventually chose to focus on resilient agriculture because of its key role in supporting long-term food security. Working in federal ag policy for several years, spatial data's crucial role in risk assessment and resilence building became clear.
+My work in the food and agriculture sector is what eventually led me to GIS and spatial data analysis. I started my career working in food security and eventually chose to focus on resilient agriculture because of its key role in supporting long-term food security. After working in federal ag policy for several years, spatial data's crucial role in risk assessment and resilence-building became clear.
 
 I decided to pursue a Master's of GIS at University of Minnesota Twin Cities. Within GIS, I am particularly interested in spatio-temporal modelling, data manipulation, spatial data standards/infrastructure, spatial statistics, remote sensing, and spatial data uncertainty. Using my GIS skillsets, I hope to answer two questions essential to scaling profitable, resilient agriculture:
 
