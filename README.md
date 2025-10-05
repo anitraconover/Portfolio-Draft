@@ -1,7 +1,3 @@
----
-title: Portfolio
----
-
 
 # Welcome
 As a Geographic Information Science (GIS) professional, I use maps to observe trends and inform decisions. Extreme weather is inreasingly threatening the U.S. food system, and I am passionate about leveraging spatial data to help farms adapt to emerging risks and build resilience. 
