@@ -33,7 +33,7 @@ My undergraduate thesis, which was presented at the Universities Fighting World 
 ### <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Qualitative Research Sample 2:</a>
 A report on food security response to COVID-19 within Vermont's New American Communities
 
-<img width="489" height="633" alt="image" src="https://github.com/user-attachments/assets/f9c5c4fd-5080-43d3-a4c6-0dffd37035f4" />
+<img width="245" height="317" alt="image" src="https://github.com/user-attachments/assets/f9c5c4fd-5080-43d3-a4c6-0dffd37035f4" />
 
 
 
