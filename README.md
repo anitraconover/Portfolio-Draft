@@ -16,24 +16,24 @@ My work in the food and agriculture sector has spanned across roles in academia,
 ### GIS Sample 1:
 Investigation of potential vomitoxin hotspots across Minnesota based on changes in precipitation, humidity, and temperature
 
-<img width="379" height="431" alt="image" src="https://github.com/user-attachments/assets/97835db8-c9fb-4be8-bcdd-9d0a125a618b" />
+<img width="265" height="302" alt="image" src="https://github.com/user-attachments/assets/97835db8-c9fb-4be8-bcdd-9d0a125a618b" />
 
 
 
 
 ## Previous
 
-### <a href="https://www.effectivethesis.org/exceptional-research-award-winners-2022/">Research Sample 1:</a>
+### <a href="https://www.effectivethesis.org/exceptional-research-award-winners-2022/">Qualitative Research Sample 1:</a>
 My undergraduate thesis, which was presented at the Universities Fighting World Hunger (UFWH) conference in 2022 and received the Commendation Prize from Effective Thesis' international jury of experts in 2022
 
-<img width="459" height="605" alt="image" src="https://github.com/user-attachments/assets/5a7a8fbe-f242-4e94-9594-21f82c1348a2" />
+<img width="275" height="363" alt="image" src="https://github.com/user-attachments/assets/5a7a8fbe-f242-4e94-9594-21f82c1348a2" />
 
 
 
-### <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Research Sample 2:</a>
+### <a href="https://www.spatializingmigration.net/wp-content/uploads/2021/04/Refugee_Communities_and_Food_Security.pdf">Qualitative Research Sample 2:</a>
 A report on food security response to COVID-19 within Vermont's New American Communities
 
-<img width="815" height="1055" alt="image" src="https://github.com/user-attachments/assets/f9c5c4fd-5080-43d3-a4c6-0dffd37035f4" />
+<img width="489" height="633" alt="image" src="https://github.com/user-attachments/assets/f9c5c4fd-5080-43d3-a4c6-0dffd37035f4" />
 
 
 
