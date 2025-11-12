@@ -55,7 +55,7 @@ I am currently pursuing a Master's of GIS at University of Minnesota Twin Cities
 
 🌱 How can earth observation and remote sensing better evaluate agricultural risk and therefore improve farm finance tools for resilient agricultural practices?
 
-🌱 How can revisions to existing spatial data infrastructure improve the interoperability, transparency, and security of agricultural data and better support profitable, disaster-resilient agriculture?
+🌱 How can revisions to existing spatial data infrastructure better support profitable, disaster-resilient agriculture?
 
 
 
